@@ -2,11 +2,6 @@
 Hand-crafted blueprints library for Spaceflight Simulator.
 All JSON files are manually written, no extracted game assets.
 
-## Blueprint List
-- Starship V3CBC (7000 lines massive blueprint)
-- Modern Sea Dragon
-More rocket designs coming soon.
-
 ## Compatibility
 Works on SFS 1.5 and above, both official release and store-modified builds.
 
